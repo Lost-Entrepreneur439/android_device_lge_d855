@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_d855.mk
+    $(LOCAL_DIR)/aicp_d855.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_d855-userdebug \
-    lineage_d855-eng \
-    lineage_d855-user
+    aicp_d855-userdebug \
+    aicp_d855-eng \
+    aicp_d855-user
